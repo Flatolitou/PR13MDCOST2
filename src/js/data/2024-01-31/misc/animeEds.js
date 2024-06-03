@@ -1,8 +1,8 @@
 export const animeEndings = [
   {
     name: "Meitantei Conan: 14-banme no Target - \"Aqua Crystal\" by Katsuo Ohno",
-    videoId: "https://ladist1.catbox.video/x3wego.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "22z7rusqlD4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -11,7 +11,7 @@ export const animeEndings = [
   },
   {
     name: "Stranger: Mukou Hadan - \"Ihoujin no Yaiba\" by Naoki Sato",
-    videoId: "https://ladist1.catbox.video/u93yy4.mp3",
+    videoId: "https://youtu.be/tTIwbusbN1g?si=q2WLH4hLXXQasJXO",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -21,7 +21,7 @@ export const animeEndings = [
   },
   {
     name: "Heya Camp\u25b3 - \"SlowAir na Kisetsu\" by Akiyuki Tateyama",
-    videoId: "https://ladist1.catbox.video/9e6boc.mp3",
+    videoId: "https://youtu.be/kpnruReGJE0",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -31,8 +31,8 @@ export const animeEndings = [
   },
   {
     name: "Sakamoto desu ga? - \"Sakamoto no Medium-Slow na Hibi\" by Yasuhiko Fukuda",
-    videoId: "https://ladist1.catbox.video/ufdvaa.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "dWHQ9qTtXig",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -41,8 +41,8 @@ export const animeEndings = [
   },
   {
     name: "Hellsing Ultimate - \"One Million Bullets\" by Hayato Matsuo",
-    videoId: "https://ladist1.catbox.video/y7lvae.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "pXai4Y9TRSo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -51,8 +51,8 @@ export const animeEndings = [
   },
   {
     name: "Yuru Camp\u25b3 - \"No-cle no Jikan (Wachawacha!)\" by Akiyuki Tateyama",
-    videoId: "https://ladist1.catbox.video/tivisv.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "8uQouTi3v0o",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -61,8 +61,8 @@ export const animeEndings = [
   },
   {
     name: "JoJo no Kimyou na Bouken: Diamond wa Kudakenai - \"Killer\" by Yugo Kanno",
-    videoId: "https://ladist1.catbox.video/49ivuo.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "GT5JQ-ZR1ho",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -71,8 +71,8 @@ export const animeEndings = [
   },
   {
     name: "One Piece - \"Moon Princess\" by Kohei Tanaka",
-    videoId: "https://ladist1.catbox.video/gsimzi.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "P4zMaoriZ0s",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -81,7 +81,7 @@ export const animeEndings = [
   },
   {
     name: "Fumetsu no Anata e - \"Dawn Star\" by Ryo Kawasaki",
-    videoId: "https://ladist1.catbox.video/olpsk8.webm",
+    videoId: "https://youtu.be/VPdTjwA80nU?si=Tf9SuMkvcPkXfpVZ",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -91,8 +91,8 @@ export const animeEndings = [
   },
   {
     name: "Sousou no Frieren - \"Knife to the Throat\" by Evan Call",
-    videoId: "https://ladist1.catbox.video/sti4bo.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "WmXKXHQO5Tk",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -101,7 +101,7 @@ export const animeEndings = [
   },
   {
     name: "Dimension W - \"Osoi Kuru Mizukara no Teki\" by Go Shiina",
-    videoId: "https://ladist1.catbox.video/zrtjk1.mp3",
+    videoId: "https://youtu.be/63s68rkZZJc?si=6GZR_lFMjJYTsZG-",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -111,8 +111,8 @@ export const animeEndings = [
   },
   {
     name: "Mushoku Tensei: Isekai Ittara Honki Dasu - \"Roxy kara no Okurimono\" by Yoshiaki Fujisawa",
-    videoId: "https://ladist1.catbox.video/ercaxr.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "tjduH6eKC_o",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -121,8 +121,8 @@ export const animeEndings = [
   },
   {
     name: "Seiken Tsukai no World Break - \"World Break -Main Theme-\" by Go Sakabe",
-    videoId: "https://ladist1.catbox.video/0bh9eq.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "cxXxYQYSl2E",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -131,8 +131,8 @@ export const animeEndings = [
   },
   {
     name: "Naruto Shippuuden - \"Keisei Gyakuten\" by Yasuharu Takanashi",
-    videoId: "https://ladist1.catbox.video/5vha27.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "Sv93yQE8bRo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -141,8 +141,8 @@ export const animeEndings = [
   },
   {
     name: "Gridman Universe - \"1144 Fob 02 CH 2023 incomplete\" by Shiro Sagisu",
-    videoId: "https://ladist1.catbox.video/eneawz.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "iIp4vbauTeA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -151,7 +151,7 @@ export const animeEndings = [
   },
   {
     name: "Yuukoku no Moriarty - \"Karma\" by Asami Tachibana",
-    videoId: "https://ladist1.catbox.video/rngfy3.mp3",
+    videoId: "https://youtu.be/tp1n8Iv-AKw?si=T9lTcjv68PYGzr1l",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -161,8 +161,8 @@ export const animeEndings = [
   },
   {
     name: "Mob Psycho 100 - \"Mob - Kanjou no Bakuhatsu\" by Kenji Kawai",
-    videoId: "https://ladist1.catbox.video/fmggm4.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "TCoutnCI7kA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -171,8 +171,8 @@ export const animeEndings = [
   },
   {
     name: "Naruto - \"The Rising Fighting Spirit\" by Musashi Project",
-    videoId: "https://ladist1.catbox.video/d2a8nt.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "mjjkHg5FOhk",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
