@@ -11,8 +11,8 @@ export const animeEndings = [
   },
   {
     name: "Stranger: Mukou Hadan - \"Ihoujin no Yaiba\" by Naoki Sato",
-    videoId: "https://youtu.be/tTIwbusbN1g?si=q2WLH4hLXXQasJXO",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "tTIwbusbN1g",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -21,8 +21,8 @@ export const animeEndings = [
   },
   {
     name: "Heya Camp\u25b3 - \"SlowAir na Kisetsu\" by Akiyuki Tateyama",
-    videoId: "https://youtu.be/kpnruReGJE0",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "kpnruReGJE0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -81,8 +81,8 @@ export const animeEndings = [
   },
   {
     name: "Fumetsu no Anata e - \"Dawn Star\" by Ryo Kawasaki",
-    videoId: "https://youtu.be/VPdTjwA80nU?si=Tf9SuMkvcPkXfpVZ",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "VPdTjwA80nU",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -101,8 +101,8 @@ export const animeEndings = [
   },
   {
     name: "Dimension W - \"Osoi Kuru Mizukara no Teki\" by Go Shiina",
-    videoId: "https://youtu.be/63s68rkZZJc?si=6GZR_lFMjJYTsZG-",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "63s68rkZZJc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -151,8 +151,8 @@ export const animeEndings = [
   },
   {
     name: "Yuukoku no Moriarty - \"Karma\" by Asami Tachibana",
-    videoId: "https://youtu.be/tp1n8Iv-AKw?si=T9lTcjv68PYGzr1l",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "tp1n8Iv-AKw",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
